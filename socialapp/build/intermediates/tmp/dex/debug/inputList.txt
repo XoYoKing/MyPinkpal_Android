@@ -1,0 +1,1 @@
+F:\AndroidWork4\Mypinkpal_Android\socialapp\build\intermediates\multi-dex\debug\allclasses.jar
